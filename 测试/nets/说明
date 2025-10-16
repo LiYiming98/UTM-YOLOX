@@ -1,0 +1,10 @@
+yolo.py : yolox-mobileNet-dfl
+yolo_mobileNet.py: yolox + mobileNet
+yolo_yuanshi.py : yolox
+yolo_yuanshi_dfl.py: yolox + DFL
+yolo_training.py : yolox loss
+yolo_training_ld.py : yolox loss + dfl +distillation loss
+yolo_training_dfl.py : yolox loss + dfl
+
+yolo_mobileNetV3_small.py: yolox + mobileNetV3_small
+yolo_mobileNetV3_small_dfl.py: yolox + mobileNetV3_small + dfl
