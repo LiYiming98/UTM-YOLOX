@@ -1,0 +1,277 @@
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L532_0001.png 334,310,412,368,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L532_0002.png 122,310,200,368,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L533_0001.png 1,93,62,151,1 6,111,80,169,1 26,137,100,187,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L533_0002.png 331,210,392,263,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L533_0003.png 31,210,92,263,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L535_0001.png 443,416,496,441,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L535_0002.png 443,116,496,141,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L536_0001.png 24,1,100,20,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L537_0001.png 389,258,432,283,1 397,397,440,422,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L537_0002.png 397,97,440,122,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L538_0001.png 379,121,425,215,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L538_0002.png 167,121,213,215,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L540_0001.png 338,184,397,221,2 415,230,467,260,2 435,5,490,34,2 321,5,375,35,2 324,1,378,18,2 85,58,151,84,2 90,72,145,95,2 91,80,147,102,2 88,91,160,114,2 86,104,141,127,2 81,116,138,140,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L540_0002.png 173,12,214,42,2 95,26,136,56,2 280,40,320,66,2 244,107,289,145,2 140,117,187,150,2 149,161,192,181,2 193,196,235,238,2 404,81,443,112,2 250,435,308,475,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L541_0001.png 4,139,37,172,1 18,124,50,158,1 25,120,56,152,1 60,139,92,173,1 55,145,85,179,1 38,153,73,186,1 31,158,65,191,1 25,163,57,196,1 21,172,54,206,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L542_0001.png 219,203,241,241,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L542_0002.png 7,203,29,241,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L543_0002.png 438,23,509,89,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L543_0004.png 1,400,94,503,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L544_0001.png 89,199,174,279,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L544_0002.png 73,378,148,394,1 356,363,431,381,1 356,378,431,396,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L544_0003.png 73,166,148,182,1 356,151,431,169,1 356,166,431,184,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L546_0001.png 359,301,379,340,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L546_0002.png 59,301,79,340,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L546_0003.png 359,89,379,128,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L546_0004.png 59,89,79,128,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L547_0001.png 288,34,424,100,0 258,97,389,156,0 277,60,416,127,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L547_0002.png 236,343,418,463,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L547_0003.png 236,131,418,251,0 338,341,404,373,1 326,360,398,396,1 317,379,387,417,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L548_0001.png 120,17,170,101,1 174,271,223,358,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L548_0002.png 314,165,361,249,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L549_0001.png 116,308,177,340,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L550_0001.png 79,97,137,133,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L550_0006.png 352,414,392,443,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L550_0007.png 52,414,92,443,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L551_0001.png 197,69,243,86,2 199,82,244,99,2 201,99,245,114,2 379,52,427,65,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L551_0002.png 79,52,127,65,2 209,50,239,64,1 207,58,237,74,1 235,52,280,72,1 342,49,388,68,1 339,59,386,80,1 367,55,384,101,1 381,55,396,101,1 394,56,413,103,1 408,63,425,109,1 421,64,440,110,1 438,74,458,121,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L552_0001.png 395,41,491,66,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L553_0001.png 243,355,279,383,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L553_0002.png 243,55,279,83,1 415,298,457,327,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L553_0003.png 314,364,348,431,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L553_0004.png 415,86,457,115,1 14,364,48,431,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L554_0001.png 3,477,58,508,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L555_0001.png 1,8,188,252,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L556_0001.png 3,72,122,103,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L557_0001.png 199,267,296,305,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L558_0001.png 426,93,471,118,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L558_0002.png 126,93,171,118,1 229,90,306,112,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L558_0003.png 17,90,94,112,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L559_0001.png 315,109,349,177,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L559_0002.png 15,109,49,177,1 295,286,344,357,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L559_0003.png 83,286,132,357,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L560_0001.png 372,284,421,310,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L560_0002.png 160,284,209,310,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L561_0001.png 204,1,227,25,1 267,89,295,130,1 277,80,309,120,1 415,275,438,304,1 441,312,463,338,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L561_0002.png 441,12,463,38,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L562_0001.png 394,456,476,511,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L562_0002.png 94,456,176,511,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L564_0001.png 153,404,178,420,1 114,423,136,439,1 17,465,42,481,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L565_0001.png 305,370,322,413,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L565_0002.png 5,370,22,413,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L565_0003.png 305,158,322,201,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L565_0004.png 5,158,22,201,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L566_0001.png 329,60,409,110,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L566_0002.png 117,60,197,110,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0001.png 366,301,467,353,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0002.png 66,301,167,353,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0003.png 366,1,467,53,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0004.png 66,1,167,53,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0005.png 268,311,387,367,1 421,315,454,353,1 378,386,405,415,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L567_0006.png 56,311,175,367,1 209,315,242,353,1 166,386,193,415,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L568_0001.png 220,1,293,16,1 405,39,489,109,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L568_0002.png 8,1,81,16,1 193,39,277,109,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L568_0003.png 224,291,273,336,1 273,328,320,373,1 263,342,307,377,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L569_0001.png 186,36,317,105,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L571_0001.png 217,162,286,347,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L571_0002.png 5,162,74,347,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L571_0003.png 254,182,296,368,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L572_0001.png 211,31,399,140,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L573_0001.png 8,174,133,297,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L574_0001.png 400,116,482,188,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L574_0002.png 188,116,270,188,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L574_0003.png 352,215,422,236,1 357,228,421,251,1 268,239,318,266,4 278,253,324,280,4
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L574_0004.png 352,3,422,24,1 357,16,421,39,1 268,27,318,54,4 278,41,324,68,4
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L575_0001.png 128,231,243,388,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L575_0002.png 128,19,243,176,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L576_0001.png 399,174,485,248,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L576_0002.png 187,174,273,248,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L577_0001.png 90,123,441,289,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L577_0002.png 202,355,331,402,0 185,389,314,436,0 165,415,294,459,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L577_0003.png 202,143,331,190,0 185,177,314,224,0 165,203,294,247,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L578_0001.png 340,432,480,499,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L578_0002.png 128,432,268,499,1 393,326,473,373,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L578_0003.png 340,220,480,287,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L578_0004.png 128,220,268,287,1 393,114,473,161,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L579_0001.png 93,422,217,496,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L579_0002.png 93,122,217,196,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L580_0001.png 419,101,482,226,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L581_0001.png 234,169,430,253,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L582_0001.png 78,226,92,255,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L583_0001.png 196,372,239,454,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L583_0002.png 196,72,239,154,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L583_0003.png 380,119,420,196,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L584_0001.png 89,178,163,199,1 99,190,167,208,1 102,202,175,229,1 106,222,176,242,1 265,124,350,142,1 275,136,353,157,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L586_0001.png 35,222,65,246,1 327,41,385,117,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L586_0002.png 363,94,475,243,1 396,199,464,279,1 436,218,480,273,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L586_0003.png 151,94,263,243,1 184,199,252,279,1 224,218,268,273,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L587_0001.png 482,39,512,55,1 343,71,370,84,1 349,75,380,91,1 354,82,386,98,1 250,108,276,129,1 165,158,197,175,1 122,173,153,190,1 130,178,160,196,1 130,191,161,207,1 132,205,164,221,1 145,281,177,312,1 139,290,169,321,1 132,296,162,326,1 126,301,156,330,1 122,308,152,337,1 117,314,145,340,1 232,323,247,352,1 224,326,238,354,1 214,329,228,357,1 181,323,209,353,1 173,327,203,359,1 167,330,197,364,1 157,340,188,373,1 210,351,239,381,1 203,355,234,388,1 196,361,225,391,1 187,369,217,399,1 255,365,286,393,1 248,370,280,398,1 241,374,274,403,1 220,404,252,432,1 225,398,256,425,1 231,392,261,419,1 235,384,268,411,1 335,350,363,374,1 330,356,356,380,1 322,359,351,384,1 313,365,344,391,1 308,370,341,398,1 302,378,335,405,1 295,381,330,412,1 292,389,323,417,1 285,393,318,422,1 277,400,310,429,1 270,404,303,433,1 264,411,295,438,1 257,413,290,445,1 254,424,285,452,1 332,423,358,447,1 320,422,353,452,1 313,426,345,455,1 305,433,337,461,1 298,437,332,465,1 294,443,327,472,1 285,448,317,476,1 278,453,311,484,1 386,225,416,253,1 415,253,443,279,1 428,253,454,280,1 431,245,460,273,1 440,243,469,269,1 445,234,476,263,1 396,223,426,251,1 402,216,431,244,1 408,212,438,240,1 412,205,443,234,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L588_0001.png 179,109,266,269,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L589_0001.png 347,260,501,437,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L590_0001.png 127,271,159,360,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L590_0002.png 137,298,234,324,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L591_0001.png 1,392,71,439,4 323,433,385,473,1 380,468,435,508,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L591_0002.png 23,433,85,473,1 80,468,135,508,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L592_0001.png 320,384,440,448,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L592_0002.png 108,384,228,448,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L592_0003.png 108,84,228,148,1 22,349,173,435,1 217,301,323,348,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L592_0004.png 22,137,173,223,1 217,89,323,136,1 422,435,511,501,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L593_0001.png 55,114,109,240,3 353,232,399,358,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L593_0002.png 353,20,399,146,3 163,323,234,481,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L593_0003.png 53,20,99,146,3 254,254,346,366,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L594_0001.png 38,468,87,510,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L594_0002.png 4,198,44,238,1 41,231,82,272,1 80,264,123,305,1 144,317,187,356,1 197,331,239,368,1 183,346,227,376,1 226,368,274,399,1 153,306,196,345,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L595_0001.png 149,243,181,277,1 199,162,225,193,1 267,14,318,86,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L595_0002.png 265,227,311,252,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L595_0004.png 318,257,401,367,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L595_0005.png 106,257,189,367,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L596_0001.png 98,256,330,501,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L597_0001.png 52,400,128,442,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L597_0002.png 352,100,428,142,1 35,179,231,289,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L597_0003.png 52,100,128,142,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L598_0001.png 117,16,150,45,1 122,11,154,38,1 129,4,160,30,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L599_0001.png 260,411,305,431,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L599_0002.png 260,111,305,131,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L600_0001.png 50,203,88,224,2 45,213,84,236,2 41,227,84,253,2 31,237,86,266,2 26,250,78,278,2 20,262,72,290,2 133,268,190,292,2 195,221,228,239,2 194,233,226,250,2 39,442,97,478,2 115,486,166,511,2 253,481,295,511,2 345,273,388,295,2 341,290,395,311,2 335,299,387,323,2 330,311,380,336,2 326,325,378,347,2 321,331,374,358,2 320,350,364,367,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L601_0001.png 1,180,43,211,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L601_0002.png 224,321,372,369,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L601_0003.png 12,321,160,369,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0001.png 212,95,261,169,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0002.png 243,162,306,275,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0003.png 31,162,94,275,1 454,360,511,475,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0004.png 342,326,388,454,3 454,60,511,175,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0005.png 124,116,167,195,1 421,266,475,356,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0006.png 121,266,175,356,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L602_0007.png 313,421,362,501,1 342,114,388,242,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L603_0001.png 1,365,44,403,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L603_0002.png 1,153,44,191,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L604_0001.png 245,1,444,93,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L605_0001.png 280,165,338,229,1 305,161,342,203,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0001.png 351,157,394,186,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0002.png 51,157,94,186,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0003.png 2,404,68,453,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0004.png 473,262,512,289,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0005.png 2,192,68,241,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L606_0006.png 473,50,512,77,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L607_0001.png 9,280,93,326,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L608_0001.png 167,248,412,358,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L608_0002.png 167,36,412,146,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L609_0001.png 352,105,413,149,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L609_0002.png 52,105,113,149,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L611_0001.png 307,241,384,293,1 336,209,410,259,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L612_0001.png 300,264,323,326,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L612_0002.png 300,52,323,114,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L613_0001.png 60,181,152,237,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L613_0002.png 11,327,149,391,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L614_0001.png 367,82,427,103,1 391,120,449,141,1 457,243,512,309,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L615_0001.png 102,372,196,481,1 160,459,188,498,1 176,467,207,509,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L615_0002.png 486,115,513,156,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L615_0003.png 274,115,301,156,1 341,29,374,73,1 432,132,464,156,1 422,154,456,179,1 402,172,436,198,1 478,76,511,102,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L615_0004.png 102,72,196,181,1 160,159,188,198,1 176,167,207,209,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L616_0001.png 141,256,207,308,1 161,279,223,321,1 179,291,237,336,1 189,309,252,354,1 251,355,308,410,1 269,378,328,423,1 288,401,348,440,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L617_0001.png 355,335,388,375,1 377,325,410,369,1 398,321,439,358,1 428,308,472,356,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L617_0002.png 355,123,388,163,1 377,113,410,157,1 398,109,439,146,1 428,96,472,144,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L618_0001.png 152,125,409,378,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0001.png 260,389,296,408,1 307,411,349,435,1 363,431,402,456,1 418,448,456,473,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0002.png 7,411,49,435,1 63,431,102,456,1 118,448,156,473,1 239,364,273,385,1 228,375,264,394,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0003.png 27,364,61,385,1 16,375,52,394,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0004.png 260,89,296,108,1 307,111,349,135,1 363,131,402,156,1 418,148,456,173,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0005.png 7,111,49,135,1 63,131,102,156,1 118,148,156,173,1 239,64,273,85,1 228,75,264,94,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L619_0006.png 27,64,61,85,1 16,75,52,94,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L620_0001.png 288,425,337,512,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L620_0002.png 76,425,125,512,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L621_0001.png 467,87,500,158,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L621_0002.png 430,355,477,409,1 167,87,200,158,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L621_0003.png 218,355,265,409,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L621_0004.png 176,438,297,476,3 430,55,477,109,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L621_0005.png 176,226,297,264,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L622_0001.png 12,241,60,266,4 19,254,67,280,4 98,215,165,237,1 100,228,167,249,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L622_0002.png 389,440,464,507,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L622_0003.png 177,440,252,507,1 359,375,418,423,1 421,416,469,459,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L622_0004.png 12,29,60,54,4 19,42,67,68,4 98,3,165,25,1 100,16,167,37,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L622_0005.png 177,228,252,295,1 271,302,339,361,1 386,382,450,448,1 359,163,418,211,1 421,204,469,247,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L623_0001.png 346,386,371,440,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L623_0002.png 134,386,159,440,1 323,367,501,419,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L626_0001.png 132,329,174,337,1 237,156,255,176,1 360,134,386,165,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L626_0002.png 60,134,86,165,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L626_0003.png 132,29,174,37,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L627_0001.png 392,258,437,304,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L627_0002.png 180,258,225,304,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L627_0003.png 392,46,437,92,1 366,303,509,334,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L627_0004.png 180,46,225,92,1 154,303,297,334,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L628_0001.png 138,42,233,66,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L630_0001.png 213,352,260,427,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L630_0002.png 243,416,308,512,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L630_0003.png 31,416,96,512,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L631_0001.png 310,133,391,171,1 306,148,388,184,1 418,174,502,218,1 414,185,498,227,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L632_0001.png 461,75,512,182,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L633_0001.png 280,237,350,269,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L633_0002.png 280,25,350,57,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L634_0001.png 385,332,511,394,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L634_0002.png 385,120,511,182,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L635_0001.png 267,434,279,475,1 314,429,334,474,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L635_0002.png 55,434,67,475,1 102,429,122,474,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L635_0003.png 267,134,279,175,1 314,129,334,174,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L635_0004.png 55,134,67,175,1 102,129,122,174,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L636_0001.png 216,296,262,341,1 230,320,275,357,1 250,334,302,367,1 263,353,315,388,1 288,376,339,411,1 300,399,354,427,1 323,409,379,445,1 339,421,393,459,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L637_0001.png 194,416,228,452,1 266,270,317,345,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L637_0002.png 263,481,309,508,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L638_0001.png 339,265,385,330,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L638_0002.png 127,265,173,330,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L639_0001.png 315,236,352,268,2 326,229,361,263,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0001.png 421,380,453,452,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0002.png 437,300,470,381,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0003.png 137,300,170,381,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0004.png 421,80,453,152,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0005.png 246,332,286,441,1 437,88,470,169,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L641_0006.png 137,88,170,169,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L642_0001.png 312,145,447,209,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L642_0002.png 12,145,147,209,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L643_0001.png 77,10,121,44,2 156,53,198,91,2 145,60,188,99,2 195,74,238,114,2 183,92,227,119,2 227,113,271,143,2
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0001.png 351,285,492,488,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0002.png 51,285,192,488,0 284,246,332,279,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0003.png 72,246,120,279,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0004.png 351,73,492,276,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0005.png 51,73,192,276,0 284,34,332,67,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L644_0006.png 72,34,120,67,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L645_0001.png 1,157,60,256,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L646_0001.png 1,80,79,262,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L647_0001.png 143,102,280,145,3
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0001.png 65,24,144,63,1 350,245,391,276,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0002.png 50,245,91,276,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0003.png 52,245,127,280,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0004.png 280,253,401,277,1 435,259,479,283,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0005.png 68,253,189,277,1 223,259,267,283,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0006.png 52,33,127,68,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0007.png 280,41,401,65,1 435,47,479,71,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L648_0008.png 68,41,189,65,1 223,47,267,71,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L649_0001.png 344,199,384,261,1 363,194,401,253,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L650_0002.png 356,117,416,314,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L650_0003.png 144,117,204,314,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L651_0001.png 35,36,101,75,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L653_0001.png 179,250,232,291,1 328,347,383,386,1 318,356,372,396,1 375,383,429,422,1 368,392,421,433,1 441,430,494,470,1 428,441,479,482,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L653_0002.png 328,47,383,86,1 318,56,372,96,1 375,83,429,122,1 368,92,421,133,1 441,130,494,170,1 428,141,479,182,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L653_0003.png 116,47,171,86,1 106,56,160,96,1 163,83,217,122,1 156,92,209,133,1 229,130,282,170,1 216,141,267,182,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L655_0001.png 394,258,465,325,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L655_0002.png 94,258,165,325,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L656_0001.png 306,257,408,355,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L656_0002.png 6,257,108,355,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L657_0001.png 237,402,311,456,1 192,433,282,481,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L657_0002.png 237,102,311,156,1 192,133,282,181,1 129,210,147,258,1 144,214,161,262,1 166,230,187,277,1 178,231,197,283,1 215,243,253,293,1 81,327,186,467,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L657_0003.png 356,2,373,50,1 378,18,399,65,1 390,19,409,71,1 427,31,465,81,1 293,115,398,255,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L657_0004.png 144,2,161,50,1 166,18,187,65,1 178,19,197,71,1 215,31,253,81,1 81,115,186,255,0 290,339,478,512,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L658_0001.png 233,179,354,323,0 256,268,322,348,1 275,286,348,368,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L659_0001.png 327,133,373,250,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L659_0002.png 27,133,73,250,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L660_0001.png 182,300,327,321,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L661_0001.png 257,246,334,287,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L661_0002.png 121,254,225,304,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L661_0003.png 121,42,225,92,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L662_0001.png 269,439,317,501,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L662_0002.png 57,439,105,501,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L662_0003.png 269,139,317,201,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L662_0004.png 57,139,105,201,1
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L664_0001.png 199,355,267,461,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L664_0002.png 133,407,261,460,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L664_0003.png 133,195,261,248,0
+/root/open_yolox_sar/retinanet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/L665_0001.png 153,380,338,512,0
