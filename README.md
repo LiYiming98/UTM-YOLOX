@@ -1,6 +1,6 @@
 # UTM-YOLOX: Unknown Target Mining-Based Open-Set SAR Ship Detection and Classification
 
-This work has been published in *IEEE Geoscience and Remote Sensing Letters*.
+This work has been accepted by *IEEE Geoscience and Remote Sensing Letters*.
 
 ## 📦 Dataset
 The dataset used in this project is **SRSDDv1.0**.  
