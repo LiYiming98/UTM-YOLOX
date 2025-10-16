@@ -6,6 +6,11 @@ This work has been published in *IEEE Geoscience and Remote Sensing Letters*.
 The dataset used in this project is **SRSDDv1.0**.  
 We will soon upload a **YOLOX-compatible dataset format**. Please stay tuned.
 
+## 📘 Documentation
+Please refer to the **“文档” (Documentation)** folder for detailed instructions on:
+- How to **train** and **test** the model,  
+- How to **adjust hyperparameters** under different experimental settings.
+
 ## 📄 Citation
 If you find this repository useful for your research, please cite the following paper:
 
