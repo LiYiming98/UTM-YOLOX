@@ -4,7 +4,6 @@ This work has been accepted by *IEEE Geoscience and Remote Sensing Letters*.
 
 ## 📦 Dataset
 The dataset used in this project is **SRSDDv1.0**.  
-We will soon upload a **YOLOX-compatible dataset format**. Please stay tuned.
 
 ## 📘 Documentation
 Please refer to the **“文档” (Documentation)** folder for detailed instructions on:
